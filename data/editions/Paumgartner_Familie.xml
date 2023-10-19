@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Eintrag SYSTEM "../doctype/musiklexikon.dtd">
+<Eintrag Nummer="Paumgartner_Familie">
+	<Lexikonartikel type="Familie">
+		<Schlagwort>
+			<Hauptbezeichnung>Paumgartner, </Hauptbezeichnung>
+			<Nebenbezeichnung>Familie</Nebenbezeichnung>
+		</Schlagwort>
+		<Vita>
+			<Familienmitglied pnd="1025594568">Johann: </Familienmitglied>
+			<Geburt Metadatum="10.1.1844">10.1.1844 <Geographischer_Begriff>Micheldorf</Geographischer_Begriff>/OÖ, </Geburt>
+			<Tod Metadatum="23.5.1896">23.5.1896 <Geographischer_Begriff>Wien</Geographischer_Begriff>.</Tod>
+			<Berufsgruppe> Pianist, Komponist, Musikschriftsteller.</Berufsgruppe>
+		</Vita>
+		<Haupttext> Sohn eines Richters, 1861–65 Jusstudium an der <Verweis href="../musik_W/Wien.xml">Wiener</Verweis> Univ., bis 1880 als Jurist tätig. Nach einem erfolgreichen Klavierkonzert unter <Verweis href="../musik_M/Mottl_Ehepaar.xml">F. Mottl</Verweis> im November 1879 widmete sich P. ganz der Musik. Sologesang-Korrepetitor an der Wiener <Verweis href="../musik_H/Hofoper.xml">Hofoper</Verweis>, zahlreiche Privatschüler, ab 1884 anerkannter Musikreferent der <Kursiv>Wiener Zeitung.</Kursiv> P. war befreundet mit <Verweis href="../musik_B/Bruckner_Anton_1.xml">A. Bruckner</Verweis> und <Verweis href="../musik_B/Brahms_Johannes.xml">J. Brahms</Verweis> und ein Vorkämpfer für das Werk <Verweis href="../musik_W/Wagner_Familie.xml">Rich. Wagners</Verweis> in Wien. Hervorragender Kammermusiker und Klavierbegleiter.</Haupttext>
+	</Lexikonartikel>
+	<Anhang>
+		<Werk>W: Symphonien; Quartette; Klavierstücke; Chöre; Lieder u. a.</Werk>
+	</Anhang>
+	<Teilartikel><Haupttext>Seine Frau</Haupttext></Teilartikel>
+	<Teilartikel>
+		<Haupttext><Familienmitglied pnd="116067144">Rosa</Familienmitglied> (eig. Rose, geb. Papier): * 18.9.1858 <Geographischer_Begriff>Baden bei Wien</Geographischer_Begriff>/NÖ, † 9.2.1932 Wien. Sängerin (Mezzosopran), Musikpädagogin und -schriftstellerin. Die Tochter eines Steueramtskontrollors erhielt ihre Ausbildung an der höheren Mädchenschule in <Verweis href="../musik_K/Krems.xml">
+				<Geographischer_Begriff>Krems</Geographischer_Begriff>
+			</Verweis>. Mitglied im dortigen Gesang- und Orchesterverein, ab 1878 Gesangsstudium bei <Verweis href="../musik_M/Marchesi_Ehepaar.xml">M. Marchesi</Verweis> am Konservatorium der <Kursiv><Verweis href="../musik_G/Gesellschaft_der_Musikfreunde.xml">GdM</Verweis></Kursiv> bzw. privat, Partiturspiel bei J. P., den sie 1882 heiratete. 1880 erster öffentlicher Auftritt, am 15.3.1881 Amneris in <Verweis href="../musik_V/Verdi_Giuseppe.xml">G. Verdis</Verweis>
+			<Kursiv> Aida </Kursiv>im <Verweis href="../musik_T/Theater_an_der_Wien.xml">Theater an der Wien</Verweis>, dieselbe Rolle am 21.4. auf Einladung <Verweis href="../musik_J/Jahn_Wilhelm.xml">W. Jahns</Verweis> als Gast mit großem Erfolg an der Hofoper, deren Mitglied P. daraufhin bis 1891 war. Liederabende und Gastspiele an vielen großen deutschen Opernhäusern, auch in <Geographischer_Begriff>Amsterdam</Geographischer_Begriff>, <Verweis href="../musik_P/Prag.xml">
+				<Geographischer_Begriff>Prag</Geographischer_Begriff>
+			</Verweis> und <Verweis href="../musik_B/Budapest.xml">
+	<Geographischer_Begriff>Budapest</Geographischer_Begriff>
+			</Verweis>. P. war eine bedeutende Interpretin der Werke Rich. Wagners. Ein Kehlkopfkatarrh beendete 1891 ihre aktive Karriere als Sängerin. Ab 1893 war sie erfolgreich als Gesangslehrerin (ao. Prof.) am <Verweis href="../musik_K/Konservatorium.xml">Konservatorium</Verweis> der <Kursiv>GdM</Kursiv> tätig, zu ihren bekanntesten Schülerinnen zählen <Verweis href="../musik_M/Mildenburg_Anna.xml">A. Mildenburg</Verweis>, <Verweis href="../musik_H/Hueni-Mihacsek_Felicie.xml">F. Hüni-Mihacsek</Verweis>, Sabine Kalter, <Verweis href="../musik_P/Paalen_Bella.xml">B. Paalen</Verweis>, <Verweis href="../musik_P/Pauly_Rose.xml">R. Pauly</Verweis>, <Verweis href="../musik_W/Weidt_Familie.xml">L. Weidt </Verweis> und <Verweis href="../musik_W/Wildbrunn_Ehepaar.xml">H. Wildbrunn</Verweis>. P. unterstütze 1897 <Verweis href="../musik_M/Mahler_Familie.xml">G. Mahlers</Verweis> Berufung an die Wiener Hofoper.</Haupttext>
+		<Anhang>
+			<Gedenkstaette>G: Papiergasse (Wien XXIII [Inzersdorf]).</Gedenkstaette>
+			<Ehrung>P: Kammersängerin 1889; Widmungsträgerin von <Verweis href="../musik_R/Reinhardt_Heinrich.xml">H. Reinhardts</Verweis> Liedern Op. 1, Nr. 1–3, 1890.</Ehrung>
+			<Schrift>Schr: mehrere Artikel über das Wiener Musikleben in der <Kursiv>Neuen Freien Presse.</Kursiv></Schrift>
+			<Literatur>Lit: K-R 1997 u. 2002; [Kat.] <Kursiv>100 Jahre Wr. Oper</Kursiv> 1969, 81; <Kursiv>ÖBL</Kursiv> 7 (1978); B. Paumgartner, <LitDetail id="9453"><Kursiv>Erinnerungen</Kursiv></LitDetail> 1969; Czeike 4 (1995); Die Presse 24.1.1890, 12; Taufbuch der Pfarre Baden-St. Stephan 1857–60, fol. 121.</Literatur>
+		</Anhang>
+	</Teilartikel>
+	<Teilartikel><Haupttext>Deren Sohn</Haupttext></Teilartikel>
+	<Teilartikel>
+		<Haupttext><Familienmitglied pnd="118739670">Bernhard:</Familienmitglied> * 14.11.1887 Wien, † 27.7.1971 <Geographischer_Begriff>Salzburg</Geographischer_Begriff>. Dirigent, Musikforscher, -pädagoge, Komponist, Herausgeber. Schüler des Wiener Theresianums, Jusstudium an der Wiener Univ. (Promotion 1911), daneben besuchte er 1906–09 auch einige Vorlesungen aus <Verweis href="../musik_M/Musikwissenschaft.xml">Musikwissenschaft</Verweis> bei G. Adler, <Verweis href="../musik_D/Dietz_Max.xml">M. Dietz</Verweis> und <Verweis href="../musik_G/Graedener_Familie.xml">H. Grädener</Verweis>. Außerdem Ausbildung in Musiktheorie und -geschichte, Komposition, Kontrapunkt und Dirigieren bei <Verweis href="../musik_M/Mandyczewski_Eusebius_von.xml">E. Mandyczewski</Verweis> und <Verweis href="../musik_W/Walter_Bruno.xml">B. Walter</Verweis>, Klavier bei Rudolf Dienzl und Horn bei <Verweis href="../musik_S/Stiegler_Brueder.xml">K. Stiegler</Verweis> sowie private musikwissenschaftliche Studien bei <Verweis href="../musik_A/Adler_Guido.xml">G. Adler</Verweis>. 1906 Assistent G. Mahlers beim <Kursiv>7. Salzburger Musikfest,</Kursiv> 1911/12 Sologesangskorrepetitor an der Wiener Hofoper unter B. Walter, 1914–17 Dirigent des <Kursiv>Wiener Tonkünstler-Orchesters</Kursiv>
+			<Kursiv> (<Verweis href="../musik_W/Wiener_Symphoniker.xml">Wiener Symphoniker</Verweis>),</Kursiv> vertrat E. Mandyczewski 1915/16 als Lehrer an der Wiener MAkad. (Partiturspiel, Gesangsliteratur), 1916–18 Leiter der <Kursiv>Musikhistorischen Zentrale beim k. u. k. Kriegsministerium</Kursiv> (systematische, monarchieweite <Verweis href="../musik_S/Soldatenlied.xml">Soldatenliedersammlung</Verweis>, u. a. gemeinsam mit Béla Bartók, Zoltán Kodály, <Verweis href="../musik_M/Mautner_Konrad.xml">K. Mautner</Verweis>, <Verweis href="../musik_P/Petyrek_Felix.xml">F. Petyrek</Verweis>, <Verweis href="../musik_Z/Zoder_Raimund.xml">R. Zoder</Verweis>), 1917–38 und 1945–59 Direktor bzw. ab 1953 Präsident des <Verweis href="../musik_H/Hochschule_fuer_Musik.xml">Mozarteums</Verweis> in <Verweis href="../musik_S/Salzburg.xml">Salzburg</Verweis>, dessen Verstaatlichung er 1922 durchsetzte. Unter seiner Leitung wurde das Mozarteum 1922 <Verweis href="../musik_A/Akademien.xml">Akademie</Verweis> und 1953 <Verweis href="../musik_H/Hochschule_fuer_Musik.xml">Hochschule</Verweis>. P. war u. a. gemeinsam mit <Verweis href="../musik_R/Reinhardt_Max.xml">M. Reinhardt</Verweis> an der Gründung der <Kursiv>
+				<Verweis href="../musik_S/Salzburger_Festspiele.xml">Salzburger Festspiele</Verweis>
+			</Kursiv> beteiligt und 1960–71 Präsident des Direktoriums. Während des Zweiten Weltkriegs erhielt er von der Wiener Univ. einen Forschungsauftrag in <Geographischer_Begriff>Florenz</Geographischer_Begriff> über italienische Musikgeschichte und die Anfänge der Oper. Ab 1949 war P. auch Prof. an der Wiener MAkad. und unterrichtete Musiktheorie und -geschichte, sein bekanntester Schüler war <Verweis href="../musik_K/Karajan_Brueder.xml">H. v. Karajan</Verweis>.</Haupttext>
+	</Teilartikel>
+	<Teilartikel>
+		<Haupttext>P. schrieb mit Einar Nilson 1920 die erste Bühnenmusik zu <Verweis href="../musik_H/Hofmannsthal_Hugo_von.xml">H. v. Hofmannsthals</Verweis>
+			<Kursiv> Jedermann</Kursiv> und dirigierte 1921 das 1. Orchesterkonzert, die von ihm initiierte 1. <Kursiv>Mozart-Serenade</Kursiv> sowie das 1. geistliche Konzert der Festspiele. Er bemühte sich besonders um <Verweis href="../musik_M/Mozart_Familie_WOLFGANG_AMADEUS.xml">W. A. Mozarts</Verweis> Jugendopern, begründete 1930 die Sommerkurse am Mozarteum, 1949 die <Kursiv>Mozart-Matineen</Kursiv> und 1952 die <Kursiv>
+				<Verweis href="../musik_C/Camerata_Salzburg.xml">Camerata Academia</Verweis>
+			</Kursiv> des Mozarteums, mit der er, wie schon seit 1922 mit dem <Kursiv>Mozarteum-Orchester,</Kursiv> auf zahlreichen Tourneen in Europa, den <Verweis href="../musik_A/Amerika.xml">USA</Verweis> und <Verweis href="../musik_J/Japan.xml">Japan</Verweis> wie auch durch Plattenaufnahmen den „Salzburger Mozart-Stil“ bekannt machte. P. initiierte die Aufführung der von ihm ergänzten <Kursiv>Messe in c-Moll </Kursiv>von W. A. Mozart in der Stiftskirche St. Peter, die <Kursiv>Rappresentazione </Kursiv>von Emilio de’ Cavalieri in der Felsenreitschule bzw. in der Univ.skirche, die Renaissance des <Geographischer_Begriff>Hellbrunn</Geographischer_Begriff>er Steintheaters, das <Kursiv>Fest in Hellbrunn, </Kursiv>die <Kursiv>Musica aurea</Kursiv>-Konzerte sowie das Musische Gymnasium.</Haupttext>
+	</Teilartikel>
+	<Teilartikel>
+		<Haupttext>In seinen umfangreichen Schriften und Vorträgen beschäftigte sich P. v. a. mit den Themen Mozart, Salzburg, Festspiele und <Verweis href="../musik_A/Auffuehrungspraxis.xml">Aufführungspraxis</Verweis>.</Haupttext>
+		<Anhang>
+			<Gedenkstaette>G: B.-P.-Weg (Salzburg); B.-P.-Medaille der Internationalen Stiftung Mozarteum für die hervorragende Interpretation Mozartscher Werke.</Gedenkstaette>
+			<Ehrung>P: Prof. 1925; Hofrat 1937; Österr. Ehrenzeichen für Wissenschaft und Kunst 1962; Ehrendoktorat 1967.</Ehrung>
+			<Werk>W: Bühnenwerke (<Kursiv>Die Höhle von Salamanca</Kursiv> 1923; <Kursiv>Rossini in Neapel</Kursiv> 1935; <Kursiv>Sophonisbe</Kursiv> 1943); Instrumentalmusik (<Kursiv>Orchester-Suite nach alten Französischen Meistern</Kursiv> 1927; <Kursiv>Salzburger Divertimenti. Ballett-Divertimenti nach Musik von Mozart</Kursiv> 1954); Chöre (<Kursiv>Dt. Soldatenmesse</Kursiv> 1917); Lieder (<Kursiv>Im Freien. 6 Gesänge</Kursiv> 1914); Bearbeitungen und Neueinrichtungen (<Verweis href="../musik_H/Haydn_Brueder_JOSEPH.xml">J. Haydn</Verweis>: <Kursiv>Dt. Tänze f. Orch.</Kursiv> 1939; W. A. Mozart: <Kursiv>La Clemenza di Tito</Kursiv> 1949; W. A. Mozart: <Kursiv>La finta semplice</Kursiv> 1956; E. de’ Cavalieri: <Kursiv>Rappresentazione di anima e di corpo</Kursiv> 1970).</Werk>
+			<Schrift>Schr: (Hg.:) <LitDetail id="6016"><Kursiv>Das Soldatenvolkslied und seine Aufsammlung in der Musikhistorischen Zentrale des k. u. k. Kriegsministeriums</Kursiv></LitDetail> 1918; <LitDetail id="15099"><Kursiv>Leopold Mozart: Versuch einer gründlichen Violinschule</Kursiv></LitDetail> 1922; <Kursiv>Mozart</Kursiv> 1927, <Hoch>10</Hoch>1993; <Kursiv>Salzburg</Kursiv> 1935, 1966; <LitDetail id="17124"><Kursiv>Leopold Mozart: Briefe an seine Tochter</Kursiv></LitDetail> 1936 (gem. m. O. E. Deutsch); <LitDetail id="13726"><Kursiv>F. Schubert. Eine Biographie</Kursiv></LitDetail> 1943; <LitDetail id="11749"><Kursiv>John Mainwaring: G. F. Händel. Nach Johann Mattheson (1761)</Kursiv></LitDetail> 1947; <LitDetail id="12956"><Kursiv>Dr. Ch. Burney’s musikalische Reise durch das alte Österreich (1772)</Kursiv></LitDetail> 1948; <LitDetail id="11634"><Kursiv>J. S. Bach. Leben und Werk</Kursiv></LitDetail> 1 (1950); <LitDetail id="12175"><Kursiv>Das instrumentale Ensemble von der Antike bis zur Gegenwart</Kursiv></LitDetail> 1966; <LitDetail id="10357"><Kursiv>Die Aufgabe Salzburgs</Kursiv></LitDetail> 1967; <LitDetail id="12182"><Kursiv>Das kleine Beethovenbuch</Kursiv></LitDetail> 1968; <Kursiv>Erinnerungen</Kursiv> 1969, 2001. Zahlreiche gedruckte wie ungedruckte Aufsätze, Vorträge, Lexikonartikel, Fernseh- und Rundfunksendungen, Übersetzungen, Ausgaben alter und neuerer Musik.</Schrift>
+			<Literatur>Lit: <Kursiv>MGG</Kursiv> 10 (1962); <Kursiv>Salzburger KulturL</Kursiv> 1987; <Kursiv>NGroveD</Kursiv> 19 (2001); E. Kornauth in <Kursiv>ÖMZ</Kursiv> 12 (1957); E. Preussner (Hg.), [Fs.] <LitDetail id="3556"><Kursiv>B. P.</Kursiv></LitDetail> 1958; Beiträge v. <LitDetail id="281">R. Wagner</LitDetail> u. <LitDetail id="280">E. Werba</LitDetail> in <Kursiv>ÖMZ</Kursiv> 22/8 (1967); G. Croll (Hg.), <LitDetail id="3518"><Kursiv>B. P. Künstler und Forscher</Kursiv></LitDetail> 1971; G. Walterskirchen, R. Angermüller und M. Pfisterer, Biographie und Bibliographie in www.bernhard-paumgartner.info (8/2004); Nachlass im B. P.-Archiv am Institut für Musikwissenschaft der Univ. Salzburg; Archiv Univ. Wien.</Literatur>
+		</Anhang>
+	</Teilartikel>
+	<Medien>
+		<Bild src="../image/Papier_Rosa.jpg">
+			<Medienbeschreibung>Rosa Papier (R. Wittmann [Hg.], <Kursiv>Unsere Kunst in Wort und Bild</Kursiv> [um 1890], 116)</Medienbeschreibung>
+		</Bild>
+		<Bild src="http://www.bildarchivaustria.at/Bildarchiv//739/B8035841T8035845.jpg">
+			<Medienbeschreibung>Rosa Paumgartner-Papier</Medienbeschreibung>
+		</Bild>
+		<Bild src="http://www.bildarchivaustria.at/Bildarchiv//84/B660246T1822844.jpg">
+			<Medienbeschreibung>Bernhard Paumgartner in der Garderobe des Mozarteums vor dem 1. Orchesterkonzert bei den <Kursiv>Salzburger Festspielen</Kursiv> 1946</Medienbeschreibung>
+		</Bild>
+		<Bild src="../image/Paumgartner_Bernhard_Gedenktafel.jpg"><Copyright year="2021">Hermann Zwanzger</Copyright><Medienbeschreibung>Gedenktafel am Geburtshaus von Bernhard Paumgartner (Frankenberggasse 7 [Wien IV])</Medienbeschreibung></Bild>
+	</Medien>
+	<Externer_Verweis href="https://museum.evang.at/persoenlichkeiten/bernhard-paumgartner/"/>
+	<Autor>EMH</Autor>
+	<Notiz status="Redaktion"/>
+</Eintrag>
